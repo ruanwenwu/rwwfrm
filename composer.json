@@ -1,0 +1,9 @@
+{
+	"name":"rww",
+	"description":"php framework",
+	"type":"framework",
+	"require":{
+		"php":">= 5.3.0",
+		"filp/whoops":"*"
+	}
+}
